@@ -1,0 +1,11 @@
+porte-avion 2 5
+sous-marin 3 2
+erreurs:
+
+neant 5 0
+voilier 4 1
+torpilleur 1 5
+torpilleur 1 1 1
+torpilleur un 1
+torpilleur 1 un
+torpilleur 1  1
